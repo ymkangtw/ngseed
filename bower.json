@@ -1,0 +1,26 @@
+{
+  "name": "ngseed",
+  "version": "0.1.0",
+  "moduleType": [
+    "amd",
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angularjs": ">=1.4.7",
+    "angular-cookies": ">=1.4.7",
+    "angular-material": ">=0.11.4",
+    "angular-ui-router": ">=0.2.15",
+    "firebase": ">=2.3.1",
+    "angularfire": ">=1.1.3",
+    "v-accordion": ">=1.4.1"
+  }
+}
